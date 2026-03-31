@@ -1,12 +1,13 @@
-Project Overview : This repository serves as my complete Digital Literacy Portfolio, created for my role as a Student Digital Ambassador. The goal of this project is to showcase essential digital skills required to navigate the online world safely and professionally. It includes visual resources, professional profile setups, coding practice evidence, communication guides, and cybercrime awareness materials.
+## Project Overview : 
+This repository serves as my complete Digital Literacy Portfolio, created for my role as a Student Digital Ambassador. The goal of this project is to showcase essential digital skills required to navigate the online world safely and professionally. It includes visual resources, professional profile setups, coding practice evidence, communication guides, and cybercrime awareness materials.
 
-My Profile:
+## My Profile:
 
 Name:PIYUSH RAWAT
-Registration Number:25BAI10833
-Branch:CSE
+ | Registration Number:25BAI10833
+ | Branch:CSE
 
-Module Summaries :
+## Module Summaries :
 
 Module 1: Digital Literacy Awareness InfographicFor this module, I created a one-page infographic using Canva to help peers understand core digital concepts. The visual guide specifically covers what digital literacy is, highlights useful digital tools for computer science students, and outlines key professional email etiquette rules.
 
